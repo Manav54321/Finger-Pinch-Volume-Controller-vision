@@ -60,7 +60,7 @@ python main.py
 ## 💻 Requirements
 
 * macOS
-* iPhone (as webcam via Continuity Camera)
+* or an iPhone (as webcam via Continuity Camera)
 * Python 3.9+
 * Conda or virtualenv
 * Camera permission for terminal
