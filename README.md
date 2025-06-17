@@ -89,7 +89,6 @@ python main.py
 ## 🙋‍♂️ Made By
 
 **Manav Desai**
-AI & CV Engineer 🚀
 
 > *"Controlling real-world systems with code is magical — so I built one with just my hand."*
 
